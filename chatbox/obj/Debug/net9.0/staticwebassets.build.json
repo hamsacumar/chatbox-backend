@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VhfHyy26RoKLx/F2rMqEaJCyzAFJANd5oOF1YndKgXw=",
+  "Source": "chatbox",
+  "BasePath": "_content/chatbox",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
