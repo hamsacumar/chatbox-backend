@@ -1,0 +1,6 @@
+@chatbox_HostAddress = http://localhost:5104
+
+GET {{chatbox_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
