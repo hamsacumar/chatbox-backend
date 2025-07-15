@@ -1,6 +1,7 @@
 using MongoDB.Driver;
 using Microsoft.OpenApi.Models;
 using chatbox.settings;
+using chatbox.service;
 
 
 
@@ -21,6 +22,9 @@ builder.Services.AddSingleton<IMongoClient, MongoClient>(sp =>
 
     return new MongoClient(settings.ConnectionString);
 });
+
+//Add Services
+builder.Services.AddSingleton<MessageService>();
 
 builder.Services.AddSingleton(sp =>
 {
