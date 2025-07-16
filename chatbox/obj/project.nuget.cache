@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QIUZlx4qD5U=",
+  "dgSpecHash": "i5n+R8IwTDE=",
   "success": true,
-  "projectFilePath": "E:\\aka-ai\\backend\\chatbox\\chatbox.csproj",
+  "projectFilePath": "E:\\chatbox\\backend\\chatbox\\chatbox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",

@@ -1071,11 +1071,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\aka-ai\\backend\\chatbox\\chatbox.csproj",
+      "projectUniqueName": "E:\\chatbox\\backend\\chatbox\\chatbox.csproj",
       "projectName": "chatbox",
-      "projectPath": "E:\\aka-ai\\backend\\chatbox\\chatbox.csproj",
+      "projectPath": "E:\\chatbox\\backend\\chatbox\\chatbox.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\aka-ai\\backend\\chatbox\\obj\\",
+      "outputPath": "E:\\chatbox\\backend\\chatbox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
