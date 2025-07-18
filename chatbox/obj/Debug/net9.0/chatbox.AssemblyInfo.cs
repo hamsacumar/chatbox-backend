@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chatbox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+835243e5a70450cd76c4e0a4c6c891a153868551")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87d1f265ed2e454918a9a5d631b35fe4676e5668")]
 [assembly: System.Reflection.AssemblyProductAttribute("chatbox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chatbox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
