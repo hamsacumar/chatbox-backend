@@ -3,7 +3,7 @@ using chatbox.service;
 using Microsoft.AspNetCore.Mvc;
 
 
-namespace Backend.controller
+namespace chatbox.controller
 {
     [ApiController]
     [Route("api/[controller]")]
